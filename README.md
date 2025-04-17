@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:codewithkiranreddy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
   <a href="https://linkedin.com/in/saikiranchittireddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/codwithkiranreddy"><img src="https://img.shields.io/github/followers/your-username?style=social"></a>
+  <a href="https://github.com/codewithkiranreddy"><img src="https://img.shields.io/github/followers/your-username?style=social"></a>
 </p>
 
 Welcome to my portfolio repository. I'm a tech enthusiast passionate about learning and building cool things in the world of technology. This repo showcases a collection of my personal and professional projects, technical experiments, and learning journey.
