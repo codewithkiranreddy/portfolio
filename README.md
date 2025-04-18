@@ -17,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-338999?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MarkLogic-E41F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-00FFC6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-00FFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-pink?style=for-the-badge" />
 </p>
 <br>
